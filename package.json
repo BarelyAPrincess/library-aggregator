@@ -1,0 +1,21 @@
+{
+  "name": "library-aggregator",
+  "version": "1.0.0",
+  "description": "Amelia's Datastore Library",
+  "repository": "https://github.com/BarelyAPrincess/library-aggregator.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dashboard",
+    "panel",
+    "organizer"
+  ],
+  "author": "Ms. Amelia S. Greene",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19"
+  }
+}
